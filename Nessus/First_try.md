@@ -6,3 +6,7 @@ Here's the result, always click for more details.
 <img src="images/result_Nessus_firstTry.png" />
 <br>
 <br>
+Don't forget to generate the report with either html or csv format for presentation:
+<img src="images/Nessus_report.png" />
+<br>
+<br>
